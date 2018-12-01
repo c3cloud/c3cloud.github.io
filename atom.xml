@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>C3云-AWS云在线教程</title>
+  
+  <subtitle>不保过的，非官方的AWS认证备考站点</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://c3.bai.uno/"/>
+  <updated>2018-12-01T06:45:33.161Z</updated>
+  <id>https://c3.bai.uno/</id>
+  
+  <author>
+    <name>Tim</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="https://c3.bai.uno/hello-world-2018-12-01.html"/>
+    <id>https://c3.bai.uno/hello-world-2018-12-01.html</id>
+    <published>2018-11-30T21:44:39.393Z</published>
+    <updated>2018-12-01T06:45:33.161Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;AWS Solution Architect 并不是一个很容易的认证考试。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;EC2&lt;/li&gt;
+&lt;li&gt;S3 Storage&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="AWS架构" scheme="https://c3.bai.uno/categories/AWS%E6%9E%B6%E6%9E%84/"/>
+    
+    
+      <category term="AWS" scheme="https://c3.bai.uno/tags/AWS/"/>
+    
+      <category term="站点通告" scheme="https://c3.bai.uno/tags/%E7%AB%99%E7%82%B9%E9%80%9A%E5%91%8A/"/>
+    
+  </entry>
+  
+</feed>
