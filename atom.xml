@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://c3.bai.uno/"/>
-  <updated>2018-12-01T06:45:33.161Z</updated>
+  <updated>2018-12-06T07:42:20.256Z</updated>
   <id>https://c3.bai.uno/</id>
   
   <author>
@@ -15,6 +15,68 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AWS认证教程☁️</title>
+    <link href="https://c3.bai.uno/tutorials-2018-12-06.html"/>
+    <id>https://c3.bai.uno/tutorials-2018-12-06.html</id>
+    <published>2018-12-06T07:29:22.481Z</published>
+    <updated>2018-12-06T07:42:20.256Z</updated>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://cloudacademy.com/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;CloudAcademy&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.qwiklabs.com&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;QWikLabs&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/aws-certified-solutions-architect-associate/learn/v4/content&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;udemy architect a cloud guru&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.lynda.com/Amazon-Web-Services-tutorials/Cert-Prep-AWS-Certified-Solutions-Architect-Associate/639068-2.html&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;solution architecture lynda&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="资源" scheme="https://c3.bai.uno/categories/%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="AWS教程" scheme="https://c3.bai.uno/tags/AWS%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AWS认证样题☁️</title>
+    <link href="https://c3.bai.uno/cert-sample-2018-12-06.html"/>
+    <id>https://c3.bai.uno/cert-sample-2018-12-06.html</id>
+    <published>2018-12-06T07:25:25.418Z</published>
+    <updated>2018-12-06T07:38:09.626Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.briefmenow.org/amazon/&quot; rel=&quot;external nofollow noopener noreferrer&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何备考☁️</title>
+    <link href="https://c3.bai.uno/cert-prep-index-2018-12-06.html"/>
+    <id>https://c3.bai.uno/cert-prep-index-2018-12-06.html</id>
+    <published>2018-12-06T07:17:21.015Z</published>
+    <updated>2018-12-06T07:40:29.666Z</updated>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.huangbowen.net/blog/2017/06/08/hwo-to-pass-aws-certifications/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS认证权威考经（助理级认证篇）huangbowen&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://blog.csdn.net/hackermmm/article/details/82756504&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;aws 认证学习指南 CSDN huainian&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://blog.csdn.net/robertlee32/article/details/69949159&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS认证攻略 – E哥的AWS Solution Architecture Associate 认证攻略 E哥&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.duyidong.com/2017/04/05/How-to-pass-the-aws-certification/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS助理架构师认证考经&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.jianshu.com/p/98e4bcdaea3b&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS认证备考心得 jianshu&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.jianshu.com/p/739ec17c16fa&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS认证权威考经（助理级认证篇 jianshu）&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://ericfu.me/aws-solution-architect-cert-associate/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS Solution Architect 认证学习笔记 eric&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="资源" scheme="https://c3.bai.uno/categories/%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="备考" scheme="https://c3.bai.uno/tags/%E5%A4%87%E8%80%83/"/>
+    
+  </entry>
   
   <entry>
     <title>第一篇文章</title>
