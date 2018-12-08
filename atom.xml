@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://c3.bai.uno/"/>
-  <updated>2018-12-06T07:42:20.256Z</updated>
+  <updated>2018-12-08T02:03:39.874Z</updated>
   <id>https://c3.bai.uno/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>☁️AWS备考整理-来自黄博文的地盘</title>
+    <link href="https://c3.bai.uno/blog-collection-%E9%BB%84%E5%8D%9A%E6%96%87%E7%9A%84%E5%9C%B0%E7%9B%98-2018-12-08.html"/>
+    <id>https://c3.bai.uno/blog-collection-黄博文的地盘-2018-12-08.html</id>
+    <published>2018-12-08T01:50:30.306Z</published>
+    <updated>2018-12-08T02:03:39.874Z</updated>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://huangbowen.net/blog/2017/08/20/deploy-openshift-platform-to-aws/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;在AWS中部署OpenShift平台&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://huangbowen.net/blog/2017/06/08/hwo-to-pass-aws-certifications/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS认证权威考经（助理级认证篇）&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://huangbowen.net/blog/2016/08/01/aws-sysops-exam-sample/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS的SysOps认证考试样题解析&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://huangbowen.net/blog/2016/07/27/aws-developer-exam-sample-questions/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS开发人员认证考试样题解析&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://huangbowen.net/blog/2015/01/17/create-nat-node-in-aws/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;在AWS中创建NAT节点&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://huangbowen.net/blog/2014/11/25/aws-reinvent-conference/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS re:Invent 2014回顾&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="备考" scheme="https://c3.bai.uno/categories/%E5%A4%87%E8%80%83/"/>
+    
+    
+      <category term="博客" scheme="https://c3.bai.uno/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>AWS认证教程☁️</title>
