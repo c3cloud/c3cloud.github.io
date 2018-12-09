@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://c3.bai.uno/"/>
-  <updated>2018-12-08T02:03:39.874Z</updated>
+  <updated>2018-12-09T08:22:37.947Z</updated>
   <id>https://c3.bai.uno/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>☁️AWS备考整理-来自Coding Husky</title>
+    <link href="https://c3.bai.uno/blog-collection-Coding-Husky-2018-12-09.html"/>
+    <id>https://c3.bai.uno/blog-collection-Coding-Husky-2018-12-09.html</id>
+    <published>2018-12-09T08:22:37.947Z</published>
+    <updated>2018-12-09T08:22:37.947Z</updated>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://ericfu.me/aws-solution-architect-cert-associate/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS Solution Architect 认证学习笔记&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://ericfu.me/aws-notes-sqs-swf-sns/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS 学习笔记之 SQS/SWF/SNS 等&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://ericfu.me/aws-notes-vpc/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS 学习笔记之 VPC&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://ericfu.me/aws-notes-database/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS 学习笔记之数据库&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://ericfu.me/aws-notes-route53/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS 学习笔记之 Route53&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://ericfu.me/aws-notes-ec2/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS 学习笔记之 EC2&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="备考" scheme="https://c3.bai.uno/categories/%E5%A4%87%E8%80%83/"/>
+    
+    
+      <category term="博客" scheme="https://c3.bai.uno/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>☁️AWS备考整理-来自黄博文的地盘</title>
