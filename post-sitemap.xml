@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://c3.bai.uno/tutorials-2018-12-06.html</loc>
+        <lastmod>2018-12-09T09:01:15.640Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://c3.bai.uno/blog-collection-Coding-Husky-2018-12-09.html</loc>
         <lastmod>2018-12-09T08:22:37.947Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -18,14 +26,6 @@
     <url>
         <loc>https://c3.bai.uno/blog-collection-%E9%BB%84%E5%8D%9A%E6%96%87%E7%9A%84%E5%9C%B0%E7%9B%98-2018-12-08.html</loc>
         <lastmod>2018-12-08T02:03:39.874Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://c3.bai.uno/tutorials-2018-12-06.html</loc>
-        <lastmod>2018-12-06T07:42:20.256Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
