@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://c3.bai.uno/"/>
-  <updated>2018-12-10T07:07:17.658Z</updated>
+  <updated>2018-12-10T08:29:24.998Z</updated>
   <id>https://c3.bai.uno/</id>
   
   <author>
@@ -15,6 +15,66 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AWS认证准备-a Cloud Guru笔记 2, EC2 and EBS</title>
+    <link href="https://c3.bai.uno/note-1-2018-12-10.html"/>
+    <id>https://c3.bai.uno/note-1-2018-12-10.html</id>
+    <published>2018-12-10T08:28:09.083Z</published>
+    <updated>2018-12-10T08:29:24.998Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;EC2-101&quot;&gt;&lt;a href=&quot;#EC2-101&quot; class=&quot;headerlink&quot; title=&quot;EC2 101&quot;&gt;&lt;/a&gt;EC2 101&lt;/h1&gt;&lt;h3 id=&quot;EC2-Options&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="笔记" scheme="https://c3.bai.uno/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="AWS" scheme="https://c3.bai.uno/tags/AWS/"/>
+    
+      <category term="Solution Architect" scheme="https://c3.bai.uno/tags/Solution-Architect/"/>
+    
+      <category term="EC2" scheme="https://c3.bai.uno/tags/EC2/"/>
+    
+      <category term="EBS" scheme="https://c3.bai.uno/tags/EBS/"/>
+    
+      <category term="Pricing" scheme="https://c3.bai.uno/tags/Pricing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AWS认证准备-ACloudGuru笔记 1, IAM and S3</title>
+    <link href="https://c3.bai.uno/note-2018-12-10.html"/>
+    <id>https://c3.bai.uno/note-2018-12-10.html</id>
+    <published>2018-12-10T08:24:28.372Z</published>
+    <updated>2018-12-10T08:30:12.494Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;IAM&quot;&gt;&lt;a href=&quot;#IAM&quot; class=&quot;headerlink&quot; title=&quot;IAM&quot;&gt;&lt;/a&gt;IAM&lt;/h1&gt;&lt;p&gt;It is global,&lt;/p&gt;&lt;p&gt;User,&lt;br&gt;Group,&lt;br&gt;Role,&lt;br&gt;Policy&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;list-style:none&quot;&gt;&lt;input type=&quot;checkbox&quot;&gt; &lt;a href=&quot;https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html?icmpid=docs_iam_console&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;IAM Best Practices&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="笔记" scheme="https://c3.bai.uno/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="AWS" scheme="https://c3.bai.uno/tags/AWS/"/>
+    
+      <category term="Solution Architect" scheme="https://c3.bai.uno/tags/Solution-Architect/"/>
+    
+      <category term="IAM" scheme="https://c3.bai.uno/tags/IAM/"/>
+    
+      <category term="S3" scheme="https://c3.bai.uno/tags/S3/"/>
+    
+  </entry>
   
   <entry>
     <title>☁️AWS备考整理-来自Jayendra&#39;s Blog</title>
