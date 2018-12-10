@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://c3.bai.uno/"/>
-  <updated>2018-12-10T08:33:58.664Z</updated>
+  <updated>2018-12-10T08:56:19.626Z</updated>
   <id>https://c3.bai.uno/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AWS认证准备-a Cloud Guru笔记 4, Cloud Watch and Monitoring</title>
+    <link href="https://c3.bai.uno/note-3-2018-12-10.html"/>
+    <id>https://c3.bai.uno/note-3-2018-12-10.html</id>
+    <published>2018-12-10T08:52:34.131Z</published>
+    <updated>2018-12-10T08:56:19.626Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Cloud-Watch&quot;&gt;&lt;a href=&quot;#Cloud-Watch&quot; class=&quot;headerlink&quot; title=&quot;Cloud Watch&quot;&gt;&lt;/a&gt;Cloud Watch&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;dashboards&lt;/li&gt;&lt;li&gt;alarm, notify you when threholds are hit&lt;/li&gt;&lt;li&gt;events, help you to response to state changes&lt;/li&gt;&lt;li&gt;logs, help you to aggregate, monitor and store logs&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="笔记" scheme="https://c3.bai.uno/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="AWS" scheme="https://c3.bai.uno/tags/AWS/"/>
+    
+      <category term="Solution Architect" scheme="https://c3.bai.uno/tags/Solution-Architect/"/>
+    
+      <category term="ELB" scheme="https://c3.bai.uno/tags/ELB/"/>
+    
+  </entry>
   
   <entry>
     <title>AWS认证准备-a Cloud Guru笔记 3, ELB Load Balancer</title>
@@ -69,11 +93,11 @@
   </entry>
   
   <entry>
-    <title>AWS认证准备-ACloudGuru笔记 1, IAM and S3</title>
+    <title>AWS认证准备-a Cloud Guru笔记 1, IAM and S3</title>
     <link href="https://c3.bai.uno/note-0-2018-12-10.html"/>
     <id>https://c3.bai.uno/note-0-2018-12-10.html</id>
     <published>2018-12-10T08:24:28.372Z</published>
-    <updated>2018-12-10T08:30:44.540Z</updated>
+    <updated>2018-12-10T08:35:14.706Z</updated>
     
     <summary type="html">
     
@@ -213,28 +237,6 @@
     
     
       <category term="备考" scheme="https://c3.bai.uno/tags/%E5%A4%87%E8%80%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第一篇文章</title>
-    <link href="https://c3.bai.uno/hello-world-2018-12-01.html"/>
-    <id>https://c3.bai.uno/hello-world-2018-12-01.html</id>
-    <published>2018-11-30T21:44:39.393Z</published>
-    <updated>2018-12-01T06:45:33.161Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;AWS Solution Architect 并不是一个很容易的认证考试。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;EC2&lt;/li&gt;&lt;li&gt;S3 Storage&lt;/li&gt;&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="AWS架构" scheme="https://c3.bai.uno/categories/AWS%E6%9E%B6%E6%9E%84/"/>
-    
-    
-      <category term="AWS" scheme="https://c3.bai.uno/tags/AWS/"/>
-    
-      <category term="站点通告" scheme="https://c3.bai.uno/tags/%E7%AB%99%E7%82%B9%E9%80%9A%E5%91%8A/"/>
     
   </entry>
   
