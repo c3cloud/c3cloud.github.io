@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://c3.bai.uno/"/>
-  <updated>2018-12-10T08:29:24.998Z</updated>
+  <updated>2018-12-10T08:33:58.664Z</updated>
   <id>https://c3.bai.uno/</id>
   
   <author>
@@ -17,21 +17,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>AWS认证准备-a Cloud Guru笔记 3, ELB Load Balancer</title>
+    <link href="https://c3.bai.uno/note-2-2018-12-10.html"/>
+    <id>https://c3.bai.uno/note-2-2018-12-10.html</id>
+    <published>2018-12-10T08:30:36.222Z</published>
+    <updated>2018-12-10T08:33:58.664Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;ELB&quot;&gt;&lt;a href=&quot;#ELB&quot; class=&quot;headerlink&quot; title=&quot;ELB&quot;&gt;&lt;/a&gt;ELB&lt;/h1&gt;&lt;h2 id=&quot;3-types&quot;&gt;&lt;a href=&quot;#3-types&quot; class=&quot;headerlink&quot; title=&quot;3 types&quot;&gt;&lt;/a&gt;3 types&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;application&lt;/li&gt;&lt;li&gt;network&lt;/li&gt;&lt;li&gt;calssic&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="笔记" scheme="https://c3.bai.uno/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="AWS" scheme="https://c3.bai.uno/tags/AWS/"/>
+    
+      <category term="Solution Architect" scheme="https://c3.bai.uno/tags/Solution-Architect/"/>
+    
+      <category term="ELB" scheme="https://c3.bai.uno/tags/ELB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>AWS认证准备-a Cloud Guru笔记 2, EC2 and EBS</title>
     <link href="https://c3.bai.uno/note-1-2018-12-10.html"/>
     <id>https://c3.bai.uno/note-1-2018-12-10.html</id>
     <published>2018-12-10T08:28:09.083Z</published>
-    <updated>2018-12-10T08:29:24.998Z</updated>
+    <updated>2018-12-10T08:34:00.540Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;EC2-101&quot;&gt;&lt;a href=&quot;#EC2-101&quot; class=&quot;headerlink&quot; title=&quot;EC2 101&quot;&gt;&lt;/a&gt;EC2 101&lt;/h1&gt;&lt;h3 id=&quot;EC2-Options&quot;&gt;&lt;a
-        
-      
+      &lt;h1 id=&quot;EC2-101&quot;&gt;&lt;a href=&quot;#EC2-101&quot; class=&quot;headerlink&quot; title=&quot;EC2 101&quot;&gt;&lt;/a&gt;EC2 101&lt;/h1&gt;&lt;h3 id=&quot;EC2-Options&quot;&gt;&lt;a href=&quot;#EC2-Options&quot; class=&quot;headerlink&quot; title=&quot;EC2 Options&quot;&gt;&lt;/a&gt;EC2 Options&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;on demand (by seconds/hours), fixed rates&lt;/li&gt;&lt;li&gt;reserved, 1 or 3 years term&lt;/li&gt;&lt;li&gt;spot, users can bid whatever price you want for instance capacity&lt;/li&gt;&lt;li&gt;dedicated hosts (able to use existing server bond software license to save money)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/ec2/pricing/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://aws.amazon.com/ec2/pricing/&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3 id=&quot;On-Demand&quot;&gt;&lt;a href=&quot;#On-Demand&quot; class=&quot;headerlink&quot; title=&quot;On Demand&quot;&gt;&lt;/a&gt;On Demand&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;application with short term, spiky or unpredicable workloads&lt;/li&gt;&lt;li&gt;app tested on EC2&lt;/li&gt;&lt;li&gt;perfect for users who want low-cost and flexibility without any up-front payment or unpredictable workloads&lt;/li&gt;&lt;/ul&gt;&lt;h3 id=&quot;Reserverd-Instances-RI&quot;&gt;&lt;a href=&quot;#Reserverd-Instances-RI&quot; class=&quot;headerlink&quot; title=&quot;Reserverd Instances (RI)&quot;&gt;&lt;/a&gt;Reserverd Instances (RI)&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;apps with steady states or predictable usafe (like web server)&lt;/li&gt;&lt;li&gt;appws required reserved capacity&lt;/li&gt;&lt;li&gt;&lt;code&gt;standard&lt;/code&gt; up to 75% discount&lt;/li&gt;&lt;li&gt;&lt;code&gt;convertible&lt;/code&gt; up to 54% discount&lt;/li&gt;&lt;li&gt;&lt;code&gt;schedules RIs&lt;/code&gt; (every friday, every December)&lt;/li&gt;&lt;/ul&gt;
     
     </summary>
     
@@ -52,10 +70,10 @@
   
   <entry>
     <title>AWS认证准备-ACloudGuru笔记 1, IAM and S3</title>
-    <link href="https://c3.bai.uno/note-2018-12-10.html"/>
-    <id>https://c3.bai.uno/note-2018-12-10.html</id>
+    <link href="https://c3.bai.uno/note-0-2018-12-10.html"/>
+    <id>https://c3.bai.uno/note-0-2018-12-10.html</id>
     <published>2018-12-10T08:24:28.372Z</published>
-    <updated>2018-12-10T08:30:12.494Z</updated>
+    <updated>2018-12-10T08:30:44.540Z</updated>
     
     <summary type="html">
     
