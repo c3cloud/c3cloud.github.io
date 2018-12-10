@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://c3.bai.uno/"/>
-  <updated>2018-12-09T08:22:37.947Z</updated>
+  <updated>2018-12-10T07:07:17.658Z</updated>
   <id>https://c3.bai.uno/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>☁️AWS备考整理-来自Jayendra&#39;s Blog</title>
+    <link href="https://c3.bai.uno/blog-collection-Jayendra-s-Blog-2018-12-10.html"/>
+    <id>https://c3.bai.uno/blog-collection-Jayendra-s-Blog-2018-12-10.html</id>
+    <published>2018-12-10T07:05:12.688Z</published>
+    <updated>2018-12-10T07:07:17.658Z</updated>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://jayendrapatil.com/aws-certified-cloud-practitioner-exam-learning-path/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS Certified Cloud Practitioner – Learning path&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://jayendrapatil.com/aws-solutions-architect-associate-feb-2018-exam-learning-path/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS Certified Solutions Architect – Associate (Feb 2018) learning path&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://jayendrapatil.com/aws-certified-sysops-administrator-associate-soa-c01-exam-learning-path/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS Certified SysOps Administrator – Associate (SOA-C01) learning path&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://jayendrapatil.com/aws-certified-developer-associate-june-2018-exam-learning-path/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS Certified Developer – Associate June 2018 learning path&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://jayendrapatil.com/aws-certified-developer-associate-exam-learning-path/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS Certified Developer – Associate learning path&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://jayendrapatil.com/aws-solution-architect-professional-certification-exam-preparation-guide/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;AWS Certified Solution Architect – Professional learning path&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="备考" scheme="https://c3.bai.uno/categories/%E5%A4%87%E8%80%83/"/>
+    
+    
+      <category term="博客" scheme="https://c3.bai.uno/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>☁️AWS备考整理-来自Coding Husky</title>
